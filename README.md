@@ -113,11 +113,7 @@ Artificial Intelligence helps farmers:
 
 ---
 
-## 👩‍💻 Team
-- Subashini P
-- Shahana MS
 
----
 
 ## 📌 Conclusion
 Smart agriculture using AI & cloud:
@@ -127,5 +123,4 @@ Smart agriculture using AI & cloud:
 
 ---
 
-## ⭐ Support
-If you like this project, please ⭐ star this repository!
+
